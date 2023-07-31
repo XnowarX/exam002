@@ -1,0 +1,14 @@
+.bg-image {
+    background-image: url(../img/insertion-header.jpg);
+    background-color: #000000;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.bg-image-2 {
+    background-image: url(../img/insertion-1800x450.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
